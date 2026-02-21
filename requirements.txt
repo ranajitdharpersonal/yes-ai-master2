@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+groq
+huggingface_hub
+python-dotenv
+google-search-results

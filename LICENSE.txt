@@ -1,0 +1,23 @@
+COPYRIGHT (c) 2026 RANAJIT DHAR. ALL RIGHTS RESERVED.
+
+1. OWNERSHIP
+   The software, source code, design, and architecture ("YES Ai Master Edition") 
+   are the exclusive property of Ranajit Dhar. This project is protected by 
+   copyright laws and international treaties.
+
+2. LIMITED LICENSE FOR EVALUATION
+   Permission is hereby granted, free of charge, to specific individuals 
+   (Hackathon Judges and Reviewers) to download, install, and 
+   run this software SOLELY for the purpose of judging, grading, and evaluating 
+   its performance during the competition period.
+
+3. RESTRICTIONS
+   You may NOT:
+   - Reproduce, distribute, or publicly display the source code without author consent.
+   - Remove, alter, or obscure any proprietary notices, labels, or the 
+     "YES AI" branding.
+   - Use this software for any commercial purpose.
+
+4. DISCLAIMER
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR 
+   SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE.

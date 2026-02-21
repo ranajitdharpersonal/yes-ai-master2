@@ -1,0 +1,24 @@
+# --- 🔒 SECRETS (Sobcheye Important) ---
+.env
+.env.local
+.streamlit/secrets.toml
+
+# --- 🐍 Python Junk Files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- 📦 Virtual Environment (Screenshot onujayi) ---
+venv/
+env/
+.venv/
+
+# --- 🖥️ OS & IDE Junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- 📝 Logs (Optional) ---
+*.log
