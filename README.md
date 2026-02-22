@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/Stack-Gemini%203%20(Primary%20Brain)%20%E2%80%A2%20Llama%203%20(Failover)%20%E2%80%A2%20Qwen%20(Survival)-orange?style=for-the-badge" alt="Multi-Model Stack" />
         <br>
         <img src="https://img.shields.io/badge/Copyright-%C2%A9%202026%20Ranajit%20Dhar-blue?style=for-the-badge" alt="Copyright" />
-        <a href="https://yesaimaster-ranajitdhar.streamlit.app" target="_blank">
+        <a href="https://yesai-master-ranajitdhar.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
 </a>
       </p>
@@ -221,7 +221,7 @@ We don't just generate code; we provide the environment to run it.
 
 <div align="center">
   <br>
-  <a href="https://yesaimaster-ranajitdhar.streamlit.app" target="_blank">
+  <a href="https://yesai-master-ranajitdhar.streamlit.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Skip_Installation_&_Try_Live_Demo-Click_Here-FF4B4B?style=for-the-badge" height="35" alt="Live Demo"/>
   </a>
   <br><br>
