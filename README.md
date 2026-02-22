@@ -231,7 +231,7 @@ We don't just generate code; we provide the environment to run it.
 
 1.  **Clone & Install**
     ```bash
-    git clone https://github.com/ranajitdharpersonal/yes-ai-master
+    git clone https://github.com/ranajitdharpersonal/yes-ai-master2
     pip install -r requirements.txt
     ```
 
